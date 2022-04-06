@@ -3,7 +3,7 @@ Dance Mocap Dataset is an open-source dance Motion Capture dataset currently sup
 
 ## Demo
 
-[![Video Demo](http://img.youtube.com/vi/mXhNOLjIx7w/0.jpg)](http://www.youtube.com/watch?v=mXhNOLjIx7w "Video Demo")
+[![Video Demo](https://i.ytimg.com/vi/mXhNOLjIx7w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBoZ5uc1BeHcVTXernDyvPsvDzvSg)](http://www.youtube.com/watch?v=mXhNOLjIx7w "Video Demo")
 
 Note: The above video contains music. You can click the video to unmute it.
 
