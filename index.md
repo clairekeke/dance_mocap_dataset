@@ -5,10 +5,12 @@ Dance Mocap Dataset is an open-source dance Motion Capture dataset currently sup
 
 [![Video Demo](http://img.youtube.com/vi/mXhNOLjIx7w/0.jpg)](http://www.youtube.com/watch?v=mXhNOLjIx7w "Video Demo")
 
-*Note*. The above video contains music. You can click the video to unmute it.
+Note: The above video contains music. You can click the video to unmute it.
 
 ### Description
-This is a Motion Capture (MoCap) dataset for ballet and classical Chinese dance. Dance motions are captured with [OptiTrack](https://optitrack.com/) cameras (55 body markers), including finger-tracking. For each dance genre, the dataset contains dance movements of (i) techniques, (ii) poses, and (iii) dance clips. *Techniques* refers to fixed sets of moves such as jumps, spins; *poses* are short, static postures; and dance clips are sequences of continuous movements (with music). A full list of mocap data for ballet and classical Chinese dance is as follows.
+This is a Motion Capture (MoCap) dataset for ballet and classical Chinese dance. Dance motions are captured with [OptiTrack](https://optitrack.com/) cameras (55 body markers), including finger-tracking. For each dance genre, the dataset contains dance movements of (i) techniques, (ii) poses, and (iii) dance clips. 
+
+*Techniques* refers to fixed sets of moves such as jumps, spins; *poses* are short, static postures; and dance clips are sequences of continuous movements (with music). A full list of mocap data for ballet and classical Chinese dance is as follows.
 
 #### Ballet
 * **Techniques**: chaîne, emboite/tour emboite, fouette, italian fouette, pique, pirouette en dedan en dehor, soutenu, tour à la seconde, tour attitude, assemble, ballonne, cabriole, changement, échappe battu, entrelace, failli, glissade, grand battement rete, grand fouette saute, pas de chat, pas rete, saut de chat, sisson fermée, sisson ouverte
