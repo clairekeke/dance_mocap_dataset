@@ -25,7 +25,7 @@ This is a Motion Capture (MoCap) dataset for ballet and classical Chinese dance.
 
 ### Database Organization
  
- ![Image](<img width="199" alt="WechatIMG3429" src="https://user-images.githubusercontent.com/52643276/161921014-47819605-6b6c-48d0-8306-924b85d7c27c.png">)
+ ![Image](https://github.com/clairekeke/dance_mocap_dataset/blob/gh-pages/img/tree_directory.png)
  
 #### Number of Sequences 
 |       | Techniques | Poses | Dance Clips |
